@@ -1,0 +1,18 @@
+{
+  "program": {
+    "candyMachine": "",
+    "candyGuard": "",
+    "candyMachineCreator": "",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Tradecoin",
+      "image_hash": "a340bad85189e554181d0094e18af26dc6872c5bf351b983b59a4fe684c0ba03",
+      "image_link": "https://raw.githubusercontent.com/dimitarstoyanov95/CryptoMetaData/main/trade-image.png",
+      "metadata_hash": "2a66c1e63ac702d9d6003f443e5c6589918e549b3d73fbd15bb6ca571b366ef5",
+      "metadata_link": "https://arweave.net/u-IBEr3D6PDqvftjcRLW0clsutjDV_bYRilwkeORpSs",
+      "onChain": false
+    }
+  }
+}
