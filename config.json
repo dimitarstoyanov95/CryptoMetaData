@@ -1,0 +1,22 @@
+{
+  "price": 0,
+  "number": 1,
+  "symbol": "T212",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": true,
+  "creators": [
+    {
+      "address": "2JQJHkBHt9bbRAx94tAXW2JdFfVgxFL9f7GM5RFiRPxS",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "aws_config": {
+    "bucket_name": "",
+    "region": ""
+  },
+  "hidden_settings": null,
+  "guards": null
+}
