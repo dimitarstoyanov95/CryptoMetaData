@@ -1,0 +1,25 @@
+{
+  "name": "Tradecoin",
+  "symbol": "T212",
+  "description": "Just a simple trading coin.",
+  "image": "https://raw.githubusercontent.com/dimitarstoyanov95/CryptoMetaData/main/trade-image.png",
+  "attributes": [
+    {
+      "trait_type": "Use Case",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "10,000,000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dimitarstoyanov95/CryptoMetaData/main/trade-image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
